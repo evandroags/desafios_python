@@ -24,5 +24,3 @@ Caso a resposta a pergunta inicial tenha sido “sim” ou positiva de alguma fo
 aleatoriamente entre 1 e 6(você pode claro alterar essa faixa) e exiba o número no console para o usuário. 
 Na sequência pergunte se ele(a) quer rodar o script novamente e trate essa situação para que continue rodando 
 enquanto a resposta for positiva, fechando apenas quando o usuario digitar qualquer outra tecla.
-
-git remote add origin git@github.com:evandroags/desafios_python.git
