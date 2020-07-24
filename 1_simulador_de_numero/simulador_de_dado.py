@@ -18,7 +18,6 @@ def paint_anime():
         cube.forward(100)
     time.sleep(1)
     wn.bye()
-    exit()
 
 def faz_pergunta():
     question = input("Você gostaria de jogar o dado? (Pressione 'S' para CONFIRMAR ou qualquer tecla para SAIR): ")
